@@ -4,6 +4,9 @@ My solutions for HackerRank problems.
 
 * Java
 
+###Java
+---
+
 | SubDomain | Challenge | Points | Solution |
 |-----------|-----------|-------:|----------|
 |Data Structures|Java Comparator|10|Solution.java|
