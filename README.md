@@ -4,7 +4,7 @@ My solutions for HackerRank problems.
 
 * Java
 
-### Java
+## Java
 ---
 
 | SubDomain | Challenge | Points | Solution |
