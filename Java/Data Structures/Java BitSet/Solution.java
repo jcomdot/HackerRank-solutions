@@ -34,5 +34,6 @@ public class Solution {
             
             System.out.println(String.format("%d %d", B1.cardinality(), B2.cardinality()));
         }
+        in.close();
     }
 }
