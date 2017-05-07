@@ -29,7 +29,7 @@ public class Solution {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int totalEvents = Integer.parseInt(in.nextLine());
-		PriorityQueue<Student> que = new PriorityQueue<Student>(totalEvents,
+		Queue<Student> que = new PriorityQueue<>(totalEvents,
 				Comparator.comparing(Student::getCgpa).reversed().thenComparing(Student::getFname).thenComparing(Student::getToken));
 		while (totalEvents > 0) {
 			String event = in.next();
