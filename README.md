@@ -3,7 +3,7 @@
 My solutions for HackerRank problems.
 
 ---
-### This project is freebooting of [rshaghoulian's HackerRank-solutions](https://github.com/rshaghoulian/HackerRank-solutions).
+### This project is a freebooting of [rshaghoulian's HackerRank-solutions](https://github.com/rshaghoulian/HackerRank-solutions).
 ### This is just for personal practicing to create temporal project for exercising & studying github functions.
 ### After the exercising, this project will be wiped out. Sorry.
 ---
