@@ -5,7 +5,7 @@
 |Data Structures|Java Dequeue|20|[Solution.java](Data%20Structures/Java%20Dequeue/Solution.java)|
 |Data Structures|Java BitSet|20|[Solution.java](Data%20Structures/Java%20BitSet/Solution(Java7).java)|
 |Data Structures|Java Priority Queue|20|[Solution.java](Data%20Structures/Java%20Priority%20Queue/Solution(Java7).java)|
-|Advanced|Java Visitor Pattern|40|[Solution.java](Advanced/Java%20Visitor%20Pattern/Solution(Java7).java)|
+|Advanced|Java Visitor Pattern|40|[Solution.java](Advanced/Java%20Visitor%20Pattern/Solution.java)|
 
 ## Java8
 | SubDomain | Challenge | Points | Solution |
